@@ -1,0 +1,4 @@
+# .htaccess для магазина
+Options Indexes
+DirectoryIndex catalog.php
+AddDefaultCharset utf-8
